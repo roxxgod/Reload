@@ -1,1 +1,3 @@
 My first line in DevOps
+Moscow is the capital of RF
+Londo is capital of GB
